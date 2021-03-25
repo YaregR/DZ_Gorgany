@@ -1,4 +1,4 @@
-* {
+body {
     font-family: sans-serif;
 }
 
@@ -95,7 +95,7 @@
             background: #fff;
         }
         &:hover {
-            @include red
+            @include red;
         }
     }
     
